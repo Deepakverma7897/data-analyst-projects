@@ -11,12 +11,18 @@ I am an aspiring Data Analyst developing my skills in:
 
 ## Projects
 
-This repository contains my Data Analyst practice and projects using real-world datasets.
+### 1. Retail Customer Analysis
 
-## Skills
+**File:** `04_Retail_Customer_Analysis.xlsx`
 
+**Tools Used:** Excel
+
+**Project Objective:**  
+Analyzed retail customer data to understand sales, revenue, cost, profit and customer behavior.
+
+**Skills Demonstrated:**
 - Data Cleaning
-- Data Analysis
-- SQL Queries
-- Excel Analysis
-- Python & Pandas
+- Excel Data Analysis
+- Revenue & Profit Analysis
+- Customer Analysis
+- Data Interpretation
